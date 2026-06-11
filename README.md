@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Amitrajit Majumder 🚀
+### **Machine Learning Engineer & Data Scientist**
 
-<!--
-**knightwing0406/knightwing0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitrajitmajumder@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_URL_OPTIONAL)
 
-Here are some ideas to get you started:
+> A data-driven engineer focused on building robust machine learning pipelines, optimizing complex algorithms, and translating complex data architectures into scalable, real-world solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / Machine Learning** | Scikit-Learn, TensorFlow, Predictive Analytics, ML Pipelines |
+| **Data Analysis & Processing** | Pandas, NumPy, Data Wrangling, Feature Engineering |
+| **Languages & Core CS** | Python, C++, SQL, JavaScript, Advanced Data Structures & Algorithms |
+| **Tools & Platforms** | Git, GitHub, Jupyter Notebooks, Linux, VS Code |
+
+---
+
+## 🌌 Featured Production-Ready Projects
+
+### 📡 [EcoRoute Carbon Predictor](https://github.com/knightwing0406/ecoroute-carbon-predictor)
+*An end-to-end Machine Learning pipeline optimized for predicting and mitigating supply chain logistics carbon footprints.*
+* **The Challenge:** Handling multi-dimensional, noisy logistical datasets to accurately forecast environmental impacts.
+* **The Solution:** Engineered robust data processing and transformation pipelines utilizing **Pandas** and **NumPy** to feed structured feature sets into optimized regression models.
+* **Tech Stack:** Python, Jupyter Notebook, Scikit-Learn, Predictive Modeling.
+* **Key Outcome:** Created a scalable framework that demonstrates an ability to translate sustainability goals into quantitative algorithmic solutions.
+
+### 🎯 [Algorithmic Interview Pipeline (DSA)](https://github.com/knightwing0406/lc-company-wise-dsaprob)
+*A structured, data-managed tracking repository engineered to solve premium company-wise Data Structures and Algorithms patterns.*
+* **The Focus:** Systematizing core algorithmic problem-solving (Graphs, Trees, Dynamic Programming, System Design).
+* **Why it matters:** Proves enterprise-level preparation and a deep mathematical understanding of computational complexity ($O(N)$ optimization).
+* **Tech Stack:** C++, Python, Markdown Data Analytics, CSV Matrix.
+
+---
+
+## 📈 GitHub Insights & Engine Dynamics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=knightwing0406&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Amitrajit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightwing0406&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🧠 Core Competencies & Focus
+- **End-to-End Pipeline Engineering:** From raw, messy data extraction to model deployment and optimization loop metrics.
+- **Strong Mathematical Foundations:** Deep familiarity with data preprocessing techniques, hyperparameter tuning, and statistical evaluation.
+- **Clean Code Advocate:** Writing modular, self-documenting code with a sharp eye on computational complexity.
+
+⚡ *“Without data, you're just another person with an opinion.”* — W. Edwards Deming. **Let's connect and build the future of intelligent systems together!**
