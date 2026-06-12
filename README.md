@@ -68,27 +68,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightwing0406&theme=radical" alt="Amitrajit's GitHub Streak" width="100%" />
 </p>
 ---
-## 📈 GitHub Insights & Engine Dynamics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knightwing0406&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Amitrajit's GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightwing0406&layout=compact&theme=radical" alt="Top Languages" width="49.5%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightwing0406&theme=radical" alt="Amitrajit's GitHub Streak" width="100%" />
-</p>
----
-## 🧠 Advanced Competencies & Engineering Focus
+## 🧠 Core Competencies & Engineering Focus
 
 * **Production-Grade Pipeline Design:** Moving beyond static Jupyter notebooks. Focusing on modular, repeatable ETL and ML training loops that handle data drift and messy real-world logistics datasets.
 * **Algorithmic Rigor:** Deep structural understanding of execution time and memory footprints. Applying optimized Data Structures and Algorithms ($O(1)$ and $O(\log N)$ targets) directly to heavy data processing layers.
 * **Mathematical & Statistical Precision:** Rigorous approach to loss functions, performance validation metrics (RMSE, MAE, F1-Score), and mathematical data transformations to ensure predictive models are mathematically sound, not just lucky.
 
 ---
-## 🧠 Core Competencies & Focus
+<!--## 🧠 Core Competencies & Focus
 - **End-to-End Pipeline Engineering:** From raw, messy data extraction to model deployment and optimization loop metrics.
 - **Strong Mathematical Foundations:** Deep familiarity with data preprocessing techniques, hyperparameter tuning, and statistical evaluation.
 - **Clean Code Advocate:** Writing modular, self-documenting code with a sharp eye on computational complexity.
 
-⚡ *“Without data, you're just another person with an opinion.”* — W. Edwards Deming. **Let's connect and build the future of intelligent systems together!**
+⚡ *“Without data, you're just another person with an opinion.”* — W. Edwards Deming. **Let's connect and build the future of intelligent systems together!**-->
