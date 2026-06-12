@@ -1,5 +1,5 @@
 # Hi, I'm Amitrajit Majumder 🚀
-### **Machine Learning Engineer & Data Scientist**
+### **Aspiring Data Scientist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitrajitmajumder@gmail.com)
