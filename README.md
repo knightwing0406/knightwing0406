@@ -8,7 +8,15 @@
 > A data-driven engineer focused on building robust machine learning pipelines, optimizing complex algorithms, and translating complex data architectures into scalable, real-world solutions. 
 
 ---
+## 🛠️ Advanced Tech Stack & Architectural Domains
 
+| Domain / Layer | Proficient (Production-Ready) | Familiar / Advancing |
+| :--- | :--- | :--- |
+| **Artificial Intelligence & ML** | Supervised/Unsupervised Learning, Regression, Feature Engineering, Scikit-Learn | Deep Learning, Neural Networks, TensorFlow, Hyperparameter Tuning |
+| **Data Engineering & Scale** | NumPy, Pandas, Data Wrangling, Pipeline Optimization, SQL | Big Data Paradigms, ETL Architectures, Vector Databases |
+| **Core Software Engineering** | Advanced Data Structures & Algorithms (C++, Python), Object-Oriented Programming (OOP) | Computational Complexity Optimization ($O(N)$), System Design |
+| **Tooling & Infrastructure** | Git, GitHub version control, Linux environments, VS Code, Jupyter Notebooks | MLOps Frameworks, Model Deployment, CI/CD Workflows |
+---
 ## 🛠️ Tech Stack & Ecosystem
 
 | Category | Tools & Technologies |
@@ -36,7 +44,23 @@
 * **Tech Stack:** C++, Python, Markdown Data Analytics, CSV Matrix.
 
 ---
+## 📈 GitHub Insights & Engine Dynamics
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=knightwing0406&theme=radical&column=7&margin-w=15" alt="Amitrajit's Trophies" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=knightwing0406&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Amitrajit's GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightwing0406&layout=compact&theme=radical" alt="Top Languages" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightwing0406&theme=radical" alt="Amitrajit's GitHub Streak" width="100%" />
+</p>
+---
 ## 📈 GitHub Insights & Engine Dynamics
 
 <p align="center">
@@ -48,7 +72,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightwing0406&theme=radical" alt="Amitrajit's GitHub Streak" width="100%" />
 </p>
 ---
+## 🧠 Advanced Competencies & Engineering Focus
 
+* **Production-Grade Pipeline Design:** Moving beyond static Jupyter notebooks. Focusing on modular, repeatable ETL and ML training loops that handle data drift and messy real-world logistics datasets.
+* **Algorithmic Rigor:** Deep structural understanding of execution time and memory footprints. Applying optimized Data Structures and Algorithms ($O(1)$ and $O(\log N)$ targets) directly to heavy data processing layers.
+* **Mathematical & Statistical Precision:** Rigorous approach to loss functions, performance validation metrics (RMSE, MAE, F1-Score), and mathematical data transformations to ensure predictive models are mathematically sound, not just lucky.
+
+---
 ## 🧠 Core Competencies & Focus
 - **End-to-End Pipeline Engineering:** From raw, messy data extraction to model deployment and optimization loop metrics.
 - **Strong Mathematical Foundations:** Deep familiarity with data preprocessing techniques, hyperparameter tuning, and statistical evaluation.
