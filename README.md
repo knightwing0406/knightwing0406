@@ -40,10 +40,13 @@
 ## 📈 GitHub Insights & Engine Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knightwing0406&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Amitrajit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightwing0406&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knightwing0406&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Amitrajit's GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightwing0406&layout=compact&theme=radical" alt="Top Languages" width="49.5%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightwing0406&theme=radical" alt="Amitrajit's GitHub Streak" width="100%" />
+</p>
 ---
 
 ## 🧠 Core Competencies & Focus
